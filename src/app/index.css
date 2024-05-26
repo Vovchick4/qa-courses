@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth !important;
+}
+
+body {
+  margin: 0;
+  background-color: #ffff;
+  scroll-behavior: smooth !important;
+}
